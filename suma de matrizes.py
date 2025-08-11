@@ -1,4 +1,4 @@
-#suma de matrizes
+#suma de matrices
 
 matrix_a = [[1, 2, 3],
             [4, 5, 6],
@@ -38,7 +38,7 @@ for row_position in range(rows):
 for row in matrix:
     print(row)
 
-#suma de matrizes especificada por usuario
+#suma de matrices especificada por usuario
 
 number_of_matrix = int(input("¿Cuántas matrizes vamos a sumar?: "))
 
@@ -89,4 +89,5 @@ if number_of_matrix > 1:
         print()
 
 else:
+
     print("se necesitan 2 o más matrices para realizar la suma")
