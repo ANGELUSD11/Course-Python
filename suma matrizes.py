@@ -1,4 +1,4 @@
-#suma de matrizes
+#suma de matrices
 
 matrix_a = [[1, 2, 3],
             [4, 5, 6],
@@ -18,3 +18,4 @@ for row in range(len(matrix_a)):
     
 for row in range(len(matrix_a)):
     print(f"{matrix_a[row]} + {matrix_b[row]} = {matrix_c[row]}")
+
